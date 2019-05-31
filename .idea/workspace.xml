@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86673ffd-44d4-41b3-9e9b-dfb2774bab72" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>predict</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Include/test.py" />
+        <option value="$PROJECT_DIR$/venv/Include/linear_regresssion.py" />
+        <option value="$PROJECT_DIR$/venv/Include/batch_gradient_descent.py" />
+        <option value="$PROJECT_DIR$/venv/Include/stochastic_gradient_descent.py" />
+        <option value="$PROJECT_DIR$/venv/Include/ridge_regression.py" />
+        <option value="$PROJECT_DIR$/venv/Include/lasso_regression.py" />
+        <option value="$PROJECT_DIR$/venv/Include/insurance.py" />
+        <option value="$PROJECT_DIR$/venv/Include/decision_tree/iris_decision_tree.py" />
+        <option value="$PROJECT_DIR$/venv/Include/mnist.py" />
+        <option value="$PROJECT_DIR$/venv/Include/cluster_kmeans.py" />
+        <option value="$PROJECT_DIR$/AIStudy/tensorFlowStudy/01_first_graph.py" />
+        <option value="$PROJECT_DIR$/AIStudy/tensorFlowStudy/03_global_variables_initializer.py" />
+        <option value="$PROJECT_DIR$/AIStudy/tensorFlowStudy/07_linear_regression.py" />
+        <option value="$PROJECT_DIR$/AIStudy/tensorFlowStudy/17_tensorboard.py" />
+        <option value="$PROJECT_DIR$/AIStudy/tensorFlowStudy/tensorflow_cnn_cifar10.py" />
+        <option value="$PROJECT_DIR$/AIStudy/kerasStudy/01_keras_model_sequential.py" />
+        <option value="$PROJECT_DIR$/AIStudy/bayes.py" />
+        <option value="$PROJECT_DIR$/AIStudy/cuda.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/study/1.py" />
+        <option value="$PROJECT_DIR$/study/2.pyi" />
+        <option value="$PROJECT_DIR$/ridge_regression.py" />
+        <option value="$PROJECT_DIR$/study/ridge_regression.py" />
+        <option value="$PROJECT_DIR$/study/elastic_net.py" />
+        <option value="$PROJECT_DIR$/study/polynomial_regression.py" />
+        <option value="$PROJECT_DIR$/study/insurance.py" />
+        <option value="$PROJECT_DIR$/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/study/logistic.py" />
+        <option value="$PROJECT_DIR$/study/neural_network.py" />
+        <option value="$PROJECT_DIR$/study/concrete.py" />
+        <option value="$PROJECT_DIR$/study/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/study/decision_tree/iris_decision_tree.py" />
+        <option value="$PROJECT_DIR$/study/decision_tree/iris_random_forest.py" />
+        <option value="$PROJECT_DIR$/study/decision_tree/iris_bagging_tree.py" />
+        <option value="$PROJECT_DIR$/decision_tree/decision_tree_regressor.py" />
+        <option value="$PROJECT_DIR$/study/decision_tree/decision_tree_regressor.py" />
+        <option value="$PROJECT_DIR$/study/Study.py" />
+        <option value="$PROJECT_DIR$/study/mnist.py" />
+        <option value="$PROJECT_DIR$/mnist.py" />
+        <option value="$PROJECT_DIR$/study/cluster/cluster_kmeans.py" />
+        <option value="$PROJECT_DIR$/study/cluster/cluster_images.py" />
+        <option value="$PROJECT_DIR$/study/cluster/cluster_metrics.py" />
+        <option value="$PROJECT_DIR$/study/cluster/cluster_DBSCAN.py" />
+        <option value="$PROJECT_DIR$/study/cluster/cluster_spectral.py" />
+        <option value="$PROJECT_DIR$/study/tensorFlowStudy/01_first_graph.py" />
+        <option value="$PROJECT_DIR$/study/tensorFlowStudy/02_better_session_run.py" />
+        <option value="$PROJECT_DIR$/study/tensorFlowStudy/07_linear_regression.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1230" />
+    <option name="width" value="695" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorFlowStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="test_data_home" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/study" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy" />
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy\venv\Include\cluster" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy\study" />
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy" />
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy\study\data" />
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy\AIStudy\kerasStudy" />
+      <recent name="D:\PyCharm 2019.1.1\PythonStudy\AIStudy\tensorFlowStudy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.07_linear_regression">
+    <configuration name="01_first_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/tensorFlowStudy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/tensorFlowStudy/01_first_graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_better_session_run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/tensorFlowStudy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/tensorFlowStudy/02_better_session_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/tensorFlowStudy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/tensorFlowStudy/07_linear_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster_DBSCAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/cluster" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/cluster/cluster_DBSCAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster_spectral" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/cluster" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/cluster/cluster_spectral.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.07_linear_regression" />
+        <item itemvalue="Python.02_better_session_run" />
+        <item itemvalue="Python.01_first_graph" />
+        <item itemvalue="Python.cluster_spectral" />
+        <item itemvalue="Python.cluster_DBSCAN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86673ffd-44d4-41b3-9e9b-dfb2774bab72" name="Default Changelist" comment="" />
+      <created>1555416903228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555416903228</updated>
+      <workItem from="1555416905391" duration="3058000" />
+      <workItem from="1555463721072" duration="9072000" />
+      <workItem from="1555556777115" duration="10002000" />
+      <workItem from="1555637535696" duration="6652000" />
+      <workItem from="1556019496451" duration="1343000" />
+      <workItem from="1556070415855" duration="6228000" />
+      <workItem from="1556156436207" duration="10275000" />
+      <workItem from="1556246759997" duration="7840000" />
+      <workItem from="1556426467218" duration="3691000" />
+      <workItem from="1556508213447" duration="8638000" />
+      <workItem from="1556685312460" duration="1447000" />
+      <workItem from="1556761537080" duration="4915000" />
+      <workItem from="1556847880855" duration="8082000" />
+      <workItem from="1557136103790" duration="807000" />
+      <workItem from="1557308390362" duration="85000" />
+      <workItem from="1557393193746" duration="602000" />
+      <workItem from="1557884634695" duration="755000" />
+      <workItem from="1557906025899" duration="683000" />
+      <workItem from="1557907686561" duration="2282000" />
+      <workItem from="1557909991770" duration="2984000" />
+      <workItem from="1557997545297" duration="1029000" />
+      <workItem from="1557998971085" duration="1153000" />
+      <workItem from="1558000140901" duration="623000" />
+      <workItem from="1558057285898" duration="23337000" />
+      <workItem from="1558316439364" duration="16573000" />
+      <workItem from="1558404091950" duration="10244000" />
+      <workItem from="1558426858302" duration="9034000" />
+      <workItem from="1558490431855" duration="4414000" />
+      <workItem from="1558576109654" duration="3338000" />
+      <workItem from="1558662066145" duration="20553000" />
+      <workItem from="1558939629669" duration="1358000" />
+      <workItem from="1559006589210" duration="27411000" />
+      <workItem from="1559097500418" duration="9664000" />
+      <workItem from="1559189723019" duration="10835000" />
+      <workItem from="1559216058635" duration="7584000" />
+      <workItem from="1559273609279" duration="216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_1_py - 2019.05.17 at 14h 57m 20s.xml">
+      <configuration name="Unittests in 1.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="236591000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="984" y="0" width="556" height="784" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.939759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2857143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.5341823" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonStudy$neural_network__1_.coverage" NAME="neural_network (1) Coverage Results" MODIFIED="1558430290916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$Unittests_in_1_py.coverage" NAME="Unittests in 1.py Coverage Results" MODIFIED="1558076239391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$decision_tree_regressor.coverage" NAME="decision_tree_regressor Coverage Results" MODIFIED="1559006630044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/decision_tree" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_images__1_.coverage" NAME="cluster_images (1) Coverage Results" MODIFIED="1559045710497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$test.coverage" NAME="test Coverage Results" MODIFIED="1558075990894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$lasso_regression.coverage" NAME="lasso_regression Coverage Results" MODIFIED="1555585322175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_first_graph.coverage" NAME="01_first_graph Coverage Results" MODIFIED="1559216976007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$14_restoring_model.coverage" NAME="14_restoring_model Coverage Results" MODIFIED="1556261660581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$17_tensorboard.coverage" NAME="17_tensorboard Coverage Results" MODIFIED="1556523458604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$tensorflow_cnn_cifar10.coverage" NAME="tensorflow_cnn_cifar10 Coverage Results" MODIFIED="1556779683373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_DBSCAN.coverage" NAME="cluster_DBSCAN Coverage Results" MODIFIED="1559191842438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$13_saving_model.coverage" NAME="13_saving_model Coverage Results" MODIFIED="1556261546653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$batch_gradient_descent.coverage" NAME="batch_gradient_descent Coverage Results" MODIFIED="1555559679889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/PythonStudy$iris_bagging_tree.coverage" NAME="iris_bagging_tree Coverage Results" MODIFIED="1558688297376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/decision_tree" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_images.coverage" NAME="cluster_images Coverage Results" MODIFIED="1559046323970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ridge_regression__1_.coverage" NAME="ridge_regression (1) Coverage Results" MODIFIED="1558077213725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1558427395319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1558426591697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$tensorflow_cnn_alexnet.coverage" NAME="tensorflow_cnn_alexnet Coverage Results" MODIFIED="1556800904070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$polynomial_regression.coverage" NAME="polynomial_regression Coverage Results" MODIFIED="1558086432136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$iris_decision_tree__1_.coverage" NAME="iris_decision_tree (1) Coverage Results" MODIFIED="1558664602562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision_tree" />
+    <SUITE FILE_PATH="coverage/PythonStudy$03_keras_mnist.coverage" NAME="03_keras_mnist Coverage Results" MODIFIED="1556850821509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/kerasStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$elastic_net.coverage" NAME="elastic_net Coverage Results" MODIFIED="1558084047719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_kmeans.coverage" NAME="cluster_kmeans Coverage Results" MODIFIED="1559033182983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$concrete.coverage" NAME="concrete Coverage Results" MODIFIED="1558430035077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$iris_random_forest.coverage" NAME="iris_random_forest Coverage Results" MODIFIED="1558686263359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/decision_tree" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_keras_model_sequential.coverage" NAME="01_keras_model_sequential Coverage Results" MODIFIED="1556848519602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/kerasStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$Study.coverage" NAME="Study Coverage Results" MODIFIED="1558699530418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ridge_regression.coverage" NAME="ridge_regression Coverage Results" MODIFIED="1558081944976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$stochastic_gradient_descent.coverage" NAME="stochastic_gradient_descent Coverage Results" MODIFIED="1555575447124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_spectral.coverage" NAME="cluster_spectral Coverage Results" MODIFIED="1559204270854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$linear_regresssion.coverage" NAME="linear_regresssion Coverage Results" MODIFIED="1555484120600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/PythonStudy$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1557308458936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$19_pooling.coverage" NAME="19_pooling Coverage Results" MODIFIED="1556769033399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$mnist.coverage" NAME="mnist Coverage Results" MODIFIED="1559011383076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_metrics.coverage" NAME="cluster_metrics Coverage Results" MODIFIED="1559098465991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cluster_kmeans__1_.coverage" NAME="cluster_kmeans (1) Coverage Results" MODIFIED="1559031793292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
+    <SUITE FILE_PATH="coverage/PythonStudy$mnist__1_.coverage" NAME="mnist (1) Coverage Results" MODIFIED="1559013395147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$cuda.coverage" NAME="cuda Coverage Results" MODIFIED="1557997636329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02_better_session_run.coverage" NAME="02_better_session_run Coverage Results" MODIFIED="1559221980404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$insurance__1_.coverage" NAME="insurance (1) Coverage Results" MODIFIED="1558322546735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$iris_decision_tree.coverage" NAME="iris_decision_tree Coverage Results" MODIFIED="1558669344142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/decision_tree" />
+    <SUITE FILE_PATH="coverage/PythonStudy$decision_tree_regressor__1_.coverage" NAME="decision_tree_regressor (1) Coverage Results" MODIFIED="1558695779618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision_tree" />
+    <SUITE FILE_PATH="coverage/PythonStudy$00_tensorflow_version.coverage" NAME="00_tensorflow_version Coverage Results" MODIFIED="1556176553116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$18_convolution.coverage" NAME="18_convolution Coverage Results" MODIFIED="1556687495475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudy/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$07_linear_regression.coverage" NAME="07_linear_regression Coverage Results" MODIFIED="1559222575229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/tensorFlowStudy" />
+    <SUITE FILE_PATH="coverage/PythonStudy$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1558443437557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/PythonStudy$insurance.coverage" NAME="insurance Coverage Results" MODIFIED="1558334372862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/concrete.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1253" selection-start-line="1253" selection-end-line="1253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="542" column="71" lean-forward="true" selection-start-line="542" selection-start-column="71" selection-end-line="542" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/iris_decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/decision_tree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/decision_tree/iris_decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/iris_random_forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/decision_tree/iris_random_forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/Study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/decision_tree/iris_bagging_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/iris_bagging_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-597">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree/decision_tree_regressor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/decision_tree/decision_tree_regressor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="2688" column="11" selection-start-line="2688" selection-start-column="11" selection-end-line="2688" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/sklearn/model_selection/_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="720" column="14" lean-forward="true" selection-start-line="720" selection-start-column="14" selection-end-line="720" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="150" column="29" lean-forward="true" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/cluster/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="2517" column="14" lean-forward="true" selection-start-line="2514" selection-start-column="3" selection-end-line="2527" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/cluster_kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/cluster/cluster_kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/cluster/cluster_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/cluster_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-577">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#44#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/sklearn/metrics/cluster/supervised.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="241" column="4" selection-start-line="241" selection-start-column="4" selection-end-line="241" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/cluster_metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/cluster/cluster_metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/cluster_DBSCAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="44" column="61" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/cluster/cluster_DBSCAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="81" selection-start-line="40" selection-start-column="81" selection-end-line="40" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/matplotlib/cm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2622">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/cluster_spectral.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/cluster/cluster_spectral.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/tensorFlowStudy/ckpt/checkpoint">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/00_tensorflow_version.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/tensorFlowStudy/01_first_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/01_first_graph.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/02_better_session_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/03_global_variables_initializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/04_interactive_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/05_manager_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/06_lifecycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIStudy/tensorFlowStudy/07_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/site-packages/tensorflow/python/ops/gen_linalg_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23503">
+          <caret line="1240" column="4" selection-start-line="1240" selection-start-column="4" selection-end-line="1240" selection-end-column="4" />
+          <folding>
+            <element signature="e#93#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/tensorFlowStudy/02_better_session_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/tensorFlowStudy/07_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
